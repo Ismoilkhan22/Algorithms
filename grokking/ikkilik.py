@@ -35,3 +35,7 @@ def binary_search(arr, item):
 ⑩ None Pythonda null degani. Bu element topilmaganligini bildiradi.
 
 """
+
+
+#  ikkilik qidiruv - bu algaritm ; uning kiritilishi elementlarning tartiblangan ruyhatidir .Agar siz
+# izlayotgan element ushbu ruyhatda bo'lsa u joylashgan joyni qaytaradi , agar bo'lmasa NULL ni qaytaradi
