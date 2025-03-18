@@ -39,3 +39,4 @@ def binary_search(arr, item):
 
 #  ikkilik qidiruv - bu algaritm ; uning kiritilishi elementlarning tartiblangan ruyhatidir .Agar siz
 # izlayotgan element ushbu ruyhatda bo'lsa u joylashgan joyni qaytaradi , agar bo'lmasa NULL ni qaytaradi
+
